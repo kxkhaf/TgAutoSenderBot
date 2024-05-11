@@ -1,6 +1,6 @@
 # 🤖 AutoJokes Bot - Telegram Bot for Scheduled Jokes & Facts
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram)](https://t.me/YourBotName)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram)](https://t.me/jokeandfact)
 [![.NET](https://img.shields.io/badge/.NET-6.0-purple?logo=dotnet)](https://dotnet.microsoft.com)
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 
